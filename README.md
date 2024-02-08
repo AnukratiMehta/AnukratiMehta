@@ -43,7 +43,7 @@ Explore some of my standout projects showcasing skills and creativity:
 
 ## ☎️ Let's Connect
 
-- [Portfolio](anukratimehta.netlify.app): Explore my full range of projects and achievements.
+- [Portfolio](https://anukratimehta.netlify.app/): Explore my full range of projects and achievements.
 - [LinkedIn](https://www.linkedin.com/in/anukrati-mehta/): Connect professionally and explore my professional journey.
 
 Exploring the digital frontier, one line of code at a time. See you in the bits and bytes! 🫶🏽
