@@ -1,4 +1,4 @@
-# Anukrati Mehta - Front-End Developer Extraordinaire! 👩🏾‍💻
+# Anukrati Mehta - Front-End Developer Extraordinaire! 👩🏼‍💻
 
 Welcome to my coding universe! I'm Anukrati Mehta, a front-end developer passionate about creating immersive web experiences. Join me on a journey to turn your creative visions into digital reality.
 
@@ -46,4 +46,4 @@ Explore some of my standout projects showcasing skills and creativity:
 - [Portfolio](anukratimehta.netlify.app): Explore my full range of projects and achievements.
 - [LinkedIn](https://www.linkedin.com/in/anukrati-mehta/): Connect professionally and explore my professional journey.
 
-Exploring the digital frontier, one line of code at a time. See you in the bits and bytes! 🫶🏾
+Exploring the digital frontier, one line of code at a time. See you in the bits and bytes! 🫶🏽
