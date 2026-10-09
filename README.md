@@ -1,49 +1,52 @@
-# Anukrati Mehta - Front-End Developer Extraordinaire! 👩🏼‍💻
+# Anukrati Mehta - Exploring the Digital Frontier! 👩🏼‍💻
 
-Welcome to my coding universe! I'm Anukrati Mehta, a front-end developer passionate about creating immersive web experiences. Join me on a journey to turn your creative visions into digital reality.
+Welcome to my corner of the internet! I'm Anukrati Mehta, a software developer turned cybersecurity enthusiast with a curious mind, a love for solving problems, and a habit of asking, "But what happens if we try this?"
+
+From building web applications to exploring how systems behave, break, and defend themselves, I'm interested in the intersection of software development and cybersecurity. There's always something new to learn, something to build, or something to figure out. And that's half the fun!
 
 ## 🚀 About Me
 
-- 💻 I specialize in front-end development, utilizing a diverse tech stack to create sleek and responsive user interfaces.
-- 🌐 From traditional trio HTML, CSS, and JavaScript to modern libraries like React and Vue.js, and frameworks like Vite and Ionic.
-- ⚙️ Proficient in tools like npm, Node.js, nodemon, Git, and GitHub for efficient and collaborative development.
-- 🎨 Design enthusiast utilizing p5.js, Tailwind, Bootstrap, and Sass to bring visual flair to web projects.
-- 📡 Backend skills with Express, MongoDB, OpenAPI, PostgreSQL, MySQL, and a touch of TypeScript for robust server-side operations.
-- 🗄️ Web technologies aficionado, including D3.js for data visualization and Redux for state management.
+- 💻 **Software Development:** I've worked with React, Vue.js, Node.js, TypeScript, and other web technologies to build and maintain applications.
+- 🔐 **Cybersecurity:** Exploring application security, network security, penetration testing, and vulnerability assessment, with a focus on understanding how vulnerabilities work and how to address them.
+- ☁️ **Cloud & Infrastructure:** Learning and working with AWS, Linux, IAM, and the security considerations that come with modern infrastructure.
+- 🧪 **Research & Digital Forensics:** My MSc research explored deepfake detection and the reliability of digital evidence under different compression conditions.
+- 🧩 **Always Experimenting:** Whether it's investigating a security issue, experimenting with code, or learning a new tool, I'm happiest when I'm figuring something out.
 
-## 🛠️ Tech Stack
-As a front-end maestro, I orchestrate digital symphonies using an ensemble of cutting-edge technologies:
+## 🛠️ Tech Stack & Tools
 
-- **Languages:** JavaScript, HTML, CSS, TypeScript
-- **Libraries & Frameworks:** React, Vue.js, p5.js, Redux
-- **Build Tools & Package Managers:** npm, Vite
-- **Server-Side Technologies:** Node.js, Express
-- **Database Management:** MongoDB, PostgreSQL, MySQL
-- **Styling & Design:** Tailwind, Bootstrap, Sass
-- **Data Visualization:** D3.js
-- **API Documentation:** OpenApi
-- **Version Control & Collaboration:** Git, GitHub
-- **Command Line Magic:** BASH
-- **Mobile App Development:** Ionic
+Here's what's in my toolkit, from building applications to exploring their security:
 
-This toolkit empowers me to sculpt seamless and visually stunning web experiences. 💻✨
+- **Languages:** Java, JavaScript, TypeScript, SQL, HTML, CSS
+- **Libraries & Frameworks:** React, Vue.js, Redux, Tailwind CSS, Bootstrap
+- **Backend & APIs:** Node.js, Express
+- **Databases:** MongoDB, PostgreSQL, MySQL
+- **Security & Networking:** Burp Suite, Wireshark, Nmap, OpenSSL
+- **Cloud & Operating Systems:** AWS, Linux, Bash
+- **Development Tools:** Git, GitHub, npm, Vite
 
-## 🌟 Featured Projects
+## 🌟 Selected Projects & Research
 
-Explore some of my standout projects showcasing skills and creativity:
+### 🔬 Deepfake Detection & Digital Evidence Reliability
+My MSc Cybersecurity research explored how compression affects deepfake detection and investigated a calibration-based approach to assessing the reliability of model predictions.
 
-1. [AI Image Generation](https://anukratimehta.github.io/ai-image-generation/): Generate unique images based on textual descriptions using the DALL-E API, demonstrating skills in AI integration, MongoDB, and efficient image hosting on Cloudinary.
+*Focus areas:* Computer vision, model evaluation, digital forensics, and evidence reliability.
 
-2. [SQL Visualization](https://public.tableau.com/shared/R47H8953Y?:display_count=n&:origin=viz_share_link): SQL Visualization: Extracted and analyzed data from a SQL database, showcasing expertise in SQL queries, data manipulation, and visualizing insights through Tableau.
+### 💻 Software Development Projects
+I also have a background in building web applications, working with APIs, databases, and interactive interfaces.
 
-3. [Tic-Tac-Toe](https://anukratimehta.github.io/tic-tac-toe/): An interactive Tic-Tac-Toe game with a visually appealing and user-friendly interface, demonstrating proficiency in JavaScript, HTML, and CSS.
+- [AI Image Generation](https://anukratimehta.github.io/ai-image-generation/) – An application that generates images from text prompts using the DALL·E API.
+- [SQL Visualization](https://public.tableau.com/shared/R47H8953Y?:display_count=n&:origin=viz_share_link) – A data exploration and visualization project using SQL and Tableau.
 
-4. [Calculator](https://anukratimehta.github.io/calculator/): Feature-rich calculator showcasing skills in JavaScript, with a user-friendly interface and responsive design for seamless functionality.
+## 📚 Currently Exploring
 
+- Web application security and the OWASP Top 10
+- Hands-on penetration testing and vulnerability analysis
+- AWS security and identity and access management
+- Practical security testing and secure software development
 
 ## ☎️ Let's Connect
 
-- [Portfolio](https://anukratimehta.netlify.app/): Explore my full range of projects and achievements.
-- [LinkedIn](https://www.linkedin.com/in/anukrati-mehta/): Connect professionally and explore my professional journey.
+- 🌐 [Portfolio](https://anukratimehta.netlify.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/anukrati-mehta/)
 
-Exploring the digital frontier, one line of code at a time. See you in the bits and bytes! 🫶🏽
+Still curious. Still building. Occasionally breaking things. Hopefully learning something useful in the process. 🫶🏽
